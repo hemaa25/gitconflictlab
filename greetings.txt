@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from the master branch
+=======
+Hello from the feature branch
+>>>>>>> feature-branch
